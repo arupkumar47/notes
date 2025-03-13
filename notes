@@ -33,3 +33,123 @@ VPC
 RDS
 	Relational Database System
 
+\documentclass[a4paper,12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{parskip} % Adds space between paragraphs
+\usepackage{enumitem} % Customizes itemize spacing
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{ARUP KUMAR KONHAI}} \\
+    \vspace{5pt}
+    \textbf{Email:} \href{mailto:arupkumar.konhai6@gmail.com}{arupkumar.konhai6@gmail.com} \quad
+    \textbf{Mobile:} +91 6305192071
+\end{center}
+
+\section*{TECHNICAL SKILLS}
+\hrule
+\vspace{5pt}
+\begin{itemize}[leftmargin=0.5in]
+    \item Languages: Python, Java, JavaScript, C
+    \item Libraries and Frameworks: React, Spring, Spring Boot, JWT,Numpy,Pandas
+    \item Databases and Tools: Git, Docker, AWS, SQL, HTML, CSS, JavaScript, REST APIs
+\end{itemize}
+
+\section*{EDUCATION}
+\hrule
+\textbf{Raghu Institute of Technology, Visakhapatnam, Andhra Pradesh} \\
+\textit{Bachelor of Technology in Computer Science and Engineering (Data Science)} \\
+CGPA: 8.03/10.0 \hfill March 2020 - May 2024
+
+\vspace{5pt}
+
+\textbf{Sri Chaitanya Junior College, Visakhapatnam, Andhra Pradesh} \\
+\textit{Intermediate (Math, Physics, and Chemistry)} \\
+88\% \hfill June 2018 - March 2020
+
+\vspace{5pt}
+
+\textbf{DAV Centenary Public School, Visakhapatnam, Andhra Pradesh} \\
+\textit{10th Class} \\
+71\% \hfill March 2018
+
+
+\section*{WORK EXPERIENCE}
+\hrule
+\textbf{Cognizant} \hfill September 26, 2024 - Present
+\textit{Program Analyst Trainee}
+\newline
+\textbf{Tech Stack} \hfill 
+\textit{Java, JavaScript, HTML, CSS, React.js, Spring, Spring Boot, Spring JPA, Bootstrap, MySQL}
+\begin{itemize}
+    \item Developed a scalable ride management system using Spring Boot microservices architecture, reducing response times by 54%.
+    \item Implemented RESTful APIs and JWT authentication for secure communication and role-based access control (RBAC).
+    \item Worked on the ride management module, integrating with the vehicle management module using REST template and Axios.
+\end{itemize}
+
+
+
+\section*{Internship}
+\hrule
+\textbf{Brain O Vision Solutions} \\
+\textit{Data Science Internship - House Price Prediction using Machine Learning} \\
+\hfill June 2023 – July 2023 \\
+\begin{itemize}[leftmargin=0.5in]
+    \item Involvement in data processing tasks, including data cleaning, data transformation, and feature engineering.
+    \item Used Python libraries such as Pandas, NumPy, and scikit-learn to manipulate and prepare the data for analysis.
+    \item Used Python’s visualization libraries like Matplotlib to create meaningful visualizations, identify patterns, and uncover relationships between variables.
+    \item Implemented machine learning algorithms to achieve good efficiency.
+\end{itemize}
+
+\section*{PROJECTS}
+\hrule
+\textbf{House Price Predictions } 
+
+\begin{itemize}[leftmargin=0.5in]
+    \item Developed a machine learning model to predict house prices by analyzing key features.
+    \item Aimed to assist the real estate industry in estimating property values.
+    \item Demonstrated proficiency in data-driven methodologies.
+    
+\end{itemize}
+
+
+\vspace{5pt}
+
+\textbf{Comparative Analysis of Spam Detection Techniques in Social Networks}
+\begin{itemize}[leftmargin=0.5in]
+   \item Developed machine learning algorithms to assess their effectiveness in detecting spam content.
+    \item Emphasized the analytical approach in assessing the trade-offs between precision and recall, vital for maintaining user experience and trust in social network platforms.
+    \item Successfully developed a predictive model for spam detection techniques in social networks.
+\end{itemize}
+
+\vspace{5pt}
+
+\textbf{Face Detection using Python}
+\begin{itemize}[leftmargin=0.5in]
+    \item Created a face detection model using OpenCV.
+    \item Implemented the model to identify faces in real-time images.
+\end{itemize}
+
+\section*{CERTIFICATIONS}
+\hrule
+\begin{itemize}[leftmargin=0.5in]
+   
+    \item Python For Data Science - NPTEL
+    \item C Language - Coursera
+    \item AWS Academy Cloud Foundation - AWS
+\end{itemize}
+
+\section*{EXTRA-CURRICULAR ACTIVITIES}
+\hrule
+\begin{itemize}[leftmargin=0.5in]
+    \item Participated in hackathons and bootcamps.
+    \item Played in South Zone school volleyball tournaments.
+    \item Competed in Cluster Zone athletics.
+\end{itemize}
+
+\
+
+\end{document}
+
